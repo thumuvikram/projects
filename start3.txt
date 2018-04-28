@@ -1,0 +1,3 @@
+this is india.
+clrscr();
+printf("this is india");
